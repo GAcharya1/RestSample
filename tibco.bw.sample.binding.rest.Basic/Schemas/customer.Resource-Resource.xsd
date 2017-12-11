@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" targetNamespace="/T1512062067006Converted/JsonSchema" xmlns:tns="/T1512062067006Converted/JsonSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Resource1" type="tns:Resource1"/>
+    <xs:complexType name="Resource1">
+        <xs:sequence>
+            <xs:element minOccurs="0" name="number" type="xs:integer"/>
+            <xs:element minOccurs="0" name="flag" type="xs:boolean"/>
+            <xs:element name="name" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
