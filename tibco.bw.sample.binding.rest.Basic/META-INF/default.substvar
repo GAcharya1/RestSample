@@ -8,7 +8,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DOMAIN.NAME</name>
@@ -17,7 +16,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.HOST.NAME</name>
@@ -26,7 +24,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.MODULE.VERSION</name>
@@ -35,7 +32,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.NAME</name>
@@ -44,7 +40,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.VERSION</name>
@@ -53,7 +48,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.APPSPACE.NAME</name>
@@ -62,7 +56,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.DEPLOYMENTUNIT.TYPE</name>
@@ -71,7 +64,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>BW.MODULE.NAME</name>
@@ -80,7 +72,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>Output_File</name>
@@ -89,7 +80,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>Input_File</name>
@@ -98,7 +88,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>Output_File_1</name>
@@ -107,7 +96,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>PORT</name>
@@ -116,7 +104,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>Integer</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>HOST</name>
@@ -125,7 +112,6 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1426139035270</modTime>
 		</globalVariable>
 	</globalVariables>
 </repository>
